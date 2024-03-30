@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Brazil</h3>
 <div>
   <p>- ⚡ Computer Engineering student willing to work in the field to develop skills related to my academic background</p>
-  <p>- 🌱 I’m currently learning: <strong>Python and Flutter</strong></p>
+  <p>- 🌱 I’m currently learning: <strong>Python, Flutter and React</strong></p>
 <img align="right" height="" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=790b7611zbgb8zz82it7rh8m4i05392aa1ctqnq7mapu9h7t&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="200" />
 </div>
 
