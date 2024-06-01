@@ -6,6 +6,9 @@
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=790b7611zbgb8zz82it7rh8m4i05392aa1ctqnq7mapu9h7t&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="100" />
 </div>
 
+## ☝️ What am i doing?:
+<p>I'm working on 2 projects right now, both of them using <strong>React+TypeScript</strong>, the first one is a personal project, a portfolio website. And the second one is a college project, we're developing a mobile and web application that we called “MarkeToGo”, I'm responsible for the Front-End of the web version of the app. </p>
+
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/pedro-lemos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-lemos" height="30" width="40" /></a>
 <a href="https://instagram.com/0p.lemos_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0p.lemos_" height="30" width="40" /></a>
