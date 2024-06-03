@@ -21,6 +21,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ckzpedro&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ckzpedro&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ckzpedro&label=Profile%20Views&color=12&icon=2&pretty=true" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
