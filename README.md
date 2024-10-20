@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 <div>
-  <p>- ⚡ Computer Engineering student willing to work in the field to develop skills related to my academic background</p>
-  <p>- 🌱 Currently studying: <strong>Angulat, Flutter and React</strong></p>
+  <p>- ⚡ Computer Engineering student willing to work with Front-End development and UX/UI design</p>
+  <p>- 🌱 Currently studying: <strong>Angular, Flutter and React</strong></p>
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=790b7611zbgb8zz82it7rh8m4i05392aa1ctqnq7mapu9h7t&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="100" />
 </div>
 
